@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laba3_Kuzmina")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+831c787ead462967efea88b01eeb06d472c328cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("laba3_Kuzmina")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laba3_Kuzmina")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

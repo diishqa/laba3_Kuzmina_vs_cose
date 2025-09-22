@@ -26,3 +26,4 @@ F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\refint\laba3_Ku
 F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.pdb
 F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.genruntimeconfig.cache
 F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\ref\laba3_Kuzmina.dll
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.sourcelink.json

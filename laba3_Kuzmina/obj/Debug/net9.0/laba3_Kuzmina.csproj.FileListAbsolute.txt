@@ -1,0 +1,28 @@
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.exe
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.deps.json
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.runtimeconfig.json
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.dll
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.pdb
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.GeneratedMSBuildEditorConfig.editorconfig
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.AssemblyInfoInputs.cache
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.AssemblyInfo.cs
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.csproj.CoreCompileInputs.cache
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.dll
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\refint\laba3_Kuzmina.dll
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.pdb
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.genruntimeconfig.cache
+F:\♡♡♡\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\ref\laba3_Kuzmina.dll
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.exe
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.deps.json
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.runtimeconfig.json
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.dll
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\bin\Debug\net9.0\laba3_Kuzmina.pdb
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.GeneratedMSBuildEditorConfig.editorconfig
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.AssemblyInfoInputs.cache
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.AssemblyInfo.cs
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.csproj.CoreCompileInputs.cache
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.dll
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\refint\laba3_Kuzmina.dll
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.pdb
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\laba3_Kuzmina.genruntimeconfig.cache
+F:\♡♡♡\vs CODE\vscode laba3\laba3_Kuzmina\obj\Debug\net9.0\ref\laba3_Kuzmina.dll
